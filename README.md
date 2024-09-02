@@ -21,3 +21,7 @@ Tried commands:
 
 9. git checkout -b <feature-branch> : to switch to a new feature branch (omit -b to switch to an existing branch)
 
+10. git push --set-upstream origin <feature-branch> : 
+
+11. git diff <fb/main> : gives difference of current branch & specified branch
+
